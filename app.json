@@ -49,7 +49,7 @@
     "runtimeVersion": {
       "policy": "appVersion"
     },
-    "owner": "arcadalabs",
+    "owner": "bvrajan90-design",
     "platforms": [
       "ios",
       "android",
